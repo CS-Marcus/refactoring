@@ -1,4 +1,5 @@
-5390343 (HEAD -> main, origin/main, origin/HEAD) Completed Task  2.2
+8420ac9 (HEAD -> main, origin/main, origin/HEAD) Completed Task 2.3
+5390343 Completed Task  2.2
 ae68a21 Completed Task 2.1 again sorry I pushed to early before
 1ba38fd Completed Task 2.1
 33f523b Completed Task 1.2
