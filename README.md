@@ -235,7 +235,7 @@ repository.
   the `log.txt` file to replace all of its contents.
   - Alternatively, make sure your terminal is open in your project directory,
     and you can run `git log --oneline > log.txt` to replace the contents of the `log.txt` file
-    with the log output.
+    with the log output. (I think I made a slight mistake with the log)
 
 > **Important**: do this each time you are asked to commit your work in the remaining tasks.
 
